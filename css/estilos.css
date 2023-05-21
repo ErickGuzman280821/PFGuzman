@@ -616,7 +616,7 @@ div.especifico4 {
     width: 50%;
   }
   footer{
-    position: fixed;
+    position: bottom;
   }
 }
 @media screen and (min-width: 1480px) {
@@ -624,7 +624,7 @@ div.especifico4 {
     margin: 150px;
   }
   footer{
-    position: fixed;
+    position: bottom;
   }
 }
 .body {
